@@ -12,7 +12,7 @@
 
 
 cmake_minimum_required(VERSION 3.11)
-project(misaxx-tissue VERSION 0.1.0 DESCRIPTION "MISA++ Tissue Segmentation")
+project(misaxx-tissue VERSION 1.0.0.1 DESCRIPTION "MISA++ Tissue Segmentation")
 
 find_package(misaxx-imaging-ome REQUIRED)
 
